@@ -1,4 +1,4 @@
-const MainLanguageArray = {
+const languageArray = {
 	"super_title": {
 		"ru": "УП \"Аркадий Паровозов\"",
 		"by": "УП \"Аркадзь Паравозаў\"",
