@@ -608,18 +608,18 @@ const languageArray = {
 		"Паравозаў\". Больш за 20 публікацый, артыкулаў. Мае вялікі досвед " +
 		"негледзячы на яго даволі малады ўзрост. ",
 
-		"en": "<em>ГЕНЕРАЛЬНЫЙ ДИРЕКТОР УП \"АРКАДИЙ ПАРОВОЗОВ\"</em><br><br> " +
-		"<strong>НЕКРАШЕВИЧ Алексей Васильевич</strong><br><br> " +
-		"кандидат экономических наук, доцент<br><br> " +
-		"В 2000 году с золотой медалью закончил СШ №2 г. Столина. " +
-		"В 2005 году окончил БГУИР (тогда ещё - МРТИ) с красным дипломом по специальности " +
-		"\"Информационные системы и технологии\", в 2008 году окончил " +
-		"магистратуру БГУИР, в 2015 году успешно защитил диссертацию " +
-		"на соискание учёной степени кандидата экномических наук " +
-		"(08.00.14). С 2015 по 2019 гг. - первый заместитель генерального " +
-		"директора. С 2019 по наше время - генеральный директор УП \"Аркадий " +
-		"Паровозов\". Более 20 публикаций, статей. Имеет большой опыт " +
-		"руководителя несмотря на его довольно молодой возраст. "
+		"en": "<em>GENERAL HEAD OF UC \"ARKADZ PARAVOZAU\"</em><br><br> " +
+		"<strong>NIEKRASHEVICH Alaksiej Vasilevich</strong><br><br> " +
+		"Ph. D. in economics, docent<br><br> " +
+		"In 2000 he was graduated in School No.2 of Stolin city having a gold medal. " +
+		"In 2005 he was graduated in BSUIR (then - MRTI) with a red diploma in " +
+		"\"Information systems and technologies\", in 2008 was graduated in " +
+		"magistrsacy of BSUIR, in 2015 defended the dissertation " +
+		"for the science degree of Philosophe Doctor in economics " +
+		"(08.00.14). From 2015 till 2019 yy. - the first vice-head " +
+		"From 2019 till today - a general head of UC \"Аrkadz " +
+		"Paravozau\". Has nore than 20 publications, articles. Has a big expeirence " +
+		"in management despite his very young age. "
 	},
 
 	"worker_paragraph_2": {
@@ -651,19 +651,19 @@ const languageArray = {
 		"грамадскім жыцці прадпрыемства, прадстаўляе прадпрыемства " +
 		"на спартыўных спаборніцтвах. ",
 
-		"en": "<em>ПЕРВЫЙ ЗАМЕСТИТЕЛЬ ГЕНЕРАЛЬНОГО ДИРЕКТОРА</em><br><br> " +
-		"<strong>КОВАЛЕВИЧ Артём Эдуардович</strong><br><br> " +
-		"В 2002 году окончил Полесский государственный университет, " +
-		"защитив дипломную работу на тему \"Экономико-математические " +
-		"методы и модели\". Спорт - это его второе имя. В свободное " +
-		"время Артём Эдуардович любит заниматься легкоатлетическими " +
-		"упражнениями. В прошлом - победитель многих спортивных " +
-		"соревнований. Имеет звание заслуженного мастера спорта " +
-		"по лёгкой атлетике. С 2010 года работал в нашей компании на " +
-		"различных должностях, а с 2018 года - первым заместителем " +
-		"генерального директора компании. Активно участвует в " +
-		"общественной жизни предприятия, представляет предприятие " +
-		"на спортивных соервнованиях. "
+		"en": "<em>FIRST VICE-HEAD</em><br><br> " +
+		"<strong>KAVALEVICH Artsiom Eduardavich</strong><br><br> " +
+		"In 2002 was graduated in Paleski State University, " +
+		"by defending a diploma work \"Economical-Mathematical " +
+		"methods and models\". Sport is his second name. During his spare " +
+		"time Artsiom Eduardavich likes doing light athletics " +
+		"exercises. In the past he was a winner of a lot of sport " +
+		"competitions. Has a title of a honored master of sports " +
+		"in light athletics. From 2012 he worked in our company at " +
+		"different posts, from 2018 - vice-head of the \"Arkadz Paravozau\" company " +
+		"Artsiom Eduardavich Kavalevich participates actively in " +
+		"the social life of our company, he represents our company " +
+		"on sport competitions. "
 	},
 
 	"worker_paragraph_3": {
@@ -703,23 +703,21 @@ const languageArray = {
 		"прыняў адназначнае вырашэнне прызначыць яго галоўным ідэолагам " +
 		"прадпрыемства. ",
 
-		"en": "<em>ЗАМЕСТИТЕЛЬ ГЕНЕРАЛЬНОГО ДИРЕКТОРА ПО ИДЕОЛОГИЧЕСКОЙ " +
-		"И ВОСПИТАТЕЛЬНОЙ РАБОТЕ</em><br><br> " +
-		"<strong>ГРИЦКОВ Виктор Сергеевич</strong><br><br> " +
-		"Виктор Сергеевич Грицков ещё с самого детства отличался " +
-		"своей активностью. Сначала в гомельской средней школе, " +
-		"потом в Гомельском государственном областном лицее, из " +
-		"которого выпустился в 2006 году. С 2006 по 2010 год " +
-		"наш будущий идеолог учится в Гомельском государственном " +
-		"университете имени Франциска Скорины. В его арсенале " +
-		"абсолютно рекордное количество грамот, благодарностей, " +
-		"похвальных листов и дипломов, в том числе и красный диплом, " +
-		"который был защищён в ГГУ. В 2013 году окончил магистратуру " +
-		"ГГУ, а в 2018 - аспирантуру при институте социологии Национальной " +
-		"Академии Наук Республики Беларусь. При подаче документов в нашу " +
-		"компанию, экс-гендиректор предприятия Виталий Владимирович Алёшко " +
-		"принял однозначное решение назначить его главным идеологом " +
-		"предприятия. "
+		"en": "<em>VICE-HEAD OF COMPANY IN IDEOLOGY AND EDUCATION</em><br><br> " +
+		"<strong>HRYTSKOU Viktar Siarhiejevich</strong><br><br> " +
+		"Viktar Siarhiejevich Hrytskou from his early childhood was " +
+		"very sociable and active. Firstly he was active in Homiel secondary school, " +
+		"and then in Homiel State Regional Lyceum, where " +
+		"he was graduated in 2006. From 2006 till 2010 year " +
+		"our future ideology worker attends Homel State University " +
+		"named after Frantsysk Skaryna. In his arsenal there are " +
+		"absolutely record number of commendation sheets, gratitudes, " +
+		"and diplomae. He also has a red diploma, that was defended " +
+		"in Homiel State University. In 2013 he was graduated in Magistercy " +
+		"and in 2018 - postgraduate school in the Institute of the Sociology " +
+		"Of the National Acaedmy of Sciences of the Republic of Belarus. While giving us a documents " +
+		"ex-general head of our company Vital Uladzimiravich Aloshka " +
+		"hired him as a general ideology worker of the company.",
 	},
 
 	"worker_paragraph_4": {
@@ -753,20 +751,20 @@ const languageArray = {
 		"прадпрыемства ўзнагароджана шматлікімі падзякамі " +
 		"і пахвальнымі паперамі. ",
 
-		"en": "<em>ГЛАВНЫЙ БУХГАЛТЕР</em><br><br> " +
-		"<strong>ТАРАБАШЕНКО Анастасия Викторовна</strong><br><br> " +
-		"Тарабашенко Анастасия Викторовна - душа нашей большой " +
-		"Семьи. Имеет огромный опыт в работе в бухгалтерии. " +
-		"За свою богатую разными яркими и не очень моментами " +
-		"жизнь она работала на 4 предприятиях бухгалтером, а " +
-		"на нашем, пятом по счёту, уже и возглавляет бухгалтерию. " +
-		"Анастасия Викторовна Тарабашенко окончила могилёвскую среднюю " +
-		"школу с золотой медалью в 1990 году. Получила высшее образование " +
-		"в Белорусском государственном университете продовольствия и " +
-		"химических технологий на кафедре бухгалтерского учёта, анализа " +
-		"и аудита. За её усердный труд и внесение вклада в развитие " +
-		"предприятия награждена многочисленными благодарностями и " +
-		"похвальными листами. "
+		"en": "<em>THE GENERAL ACCOUNTANT</em><br><br> " +
+		"<strong>TARABASHANKA Anastasija Viktarauna</strong><br><br> " +
+		"Tarabashanka Anastasija Viktarauna - is a soul of our big " +
+		"Family. She has a big expeirence in working in the accounting department. " +
+		"Having her very huge life which is rich in good and not so good moments " +
+		"she worked on 4 companies as a accountant, аnd " +
+		"the fifth company, which is ours, became a general accountant. " +
+		"Tarabashanka Anastasija Viktarauna was graduated in Mahilow secondary school " +
+		"with a gold medal in 1990. She got her higher education " +
+		"in Belarusian State University of foodstuff and " +
+		"chemical technologies on the department of accounting analysis " +
+		"and audit. For her hardworking and giving a contribution to our " +
+		"company she received a lot of gratitudes, diplomae and " +
+		"commendation sheets. "
 	},
 
 	"worker_paragraph_5": {
@@ -812,26 +810,26 @@ const languageArray = {
 		"часовы выконвала абавязкі галоўнага бухгалтара " +
 		"ўнітарнага прадпрыемства. ",
 
-		"en": "<em>ЗАМЕСТИТЕЛЬ ГЛАВНОГО БУХГАЛТЕРА</em><br><br> " +
-		"<strong>АКСЁНОВА Наталья Эдмундовна</strong><br><br> " +
-		"Аксёнова Наталья Эдмундовна - не только замечательный " +
-		"бухгалтер, но и очень хороший психолог. Кажется, она " +
-		"единственный наш сотрудник, которому можно выговориться, " +
-		"которая поможет вам решить ваши проблемы и избавиться от " +
-		"комплексов. В свободное от работы время Наталья Эдмундовна " +
-		"проводит сеансы. На нашей памяти нет ни одного плохого " +
-		"отзыва об этом прекрасном члене нашей семьи. В 1993 году " +
-		"Наталья Эдмундовна оканчивает факультет " +
-		"компьютерного проектирования Минского радиотехнического " +
-		"института по специльности \"Инженерно-психологическое " +
-		"обеспечение информационных технологий\". " +
-		"В 2011 году, будучи на тот момент бухгалтером с 16-летним " +
-		"стажем, она стояла у истоков и заложения фундамента нашего " +
-		"будущего предприятия, за что мы ей искренне благодарны. С " +
-		"2011 по сегодняшний день она занимает не самую высокую, но " +
-		"должность заместителя главного бухгалтера. С 2016 по 2017 года " +
-		"временно исполняла обязанности главного бухгалтера " +
-		"унитарного предприятия"
+		"en": "<em>VICE-GENERAL ACCOUNTANT</em><br><br> " +
+		"<strong>AKSIONAVA Natalla Edmundauna</strong><br><br> " +
+		"AKSIONAVA Natalla Edmundauna is not only an awesome " +
+		"accountant, but she is also a very perfect psychologist. In seems her to be " +
+		"the only worker, whom you can talk out your problems, " +
+		"who will help you to get rid of your complexes. " +
+		"During her spare time Natalla Edmundauna " +
+		"has sessoins. On our memory there are no bad " +
+		"feedbacks about this amazing family member. In 1993 " +
+		"Natalla Edmundauna was graduated in the facultee " +
+		"of Computer-Aided Development of Minsk Radiotechnical " +
+		"Institute. The speciality is \"Engineering-Psychological " +
+		"support of information technologies\". " +
+		"In 2011, when she was at that moment an accountant with a 16-years stage, " +
+		"she stood at the very beginnings and building a foundation of our " +
+		"future company, and we are very thankful to her fo that. From " +
+		"2011 till today she has not a very high post, but " +
+		"a post of vice-general accountant. From 2016 till 2017 " +
+		"she temporarily performed the duties of the general accountant " +
+		"of our unitary company. "
 	},
 
 	"worker_paragraph_6": {
@@ -848,12 +846,11 @@ const languageArray = {
 		"нацыянальнага тэхнічнага ўніверсітэта. Сумяшчае працу " +
 		"з навучаннем. У вольны час вельмі любіць чытаць кніжкі. ",
 
-		"en": "<em>ИНЖЕНЕР-ТЕХНИК</em><br><br> " +
-		"<strong>ДЕРЕВИНСКИЙ Алексей Игоревич</strong><br><br> " +
-		"Магистрант автотракторного факультета Белорусского " +
-		"национального технического университета. Совмещает работу " +
-		"с учёбой. В свободное время очень любит " +
-		"читать книжки. "
+		"en": "<em>ENGINEER-TECHNICIAN</em><br><br> " +
+		"<strong>DZIERAVINSKI Alaksiej Iharavich</strong><br><br> " +
+		"Alaksiej is studying a magistercy at the Faculty of Auto and Tractors " +
+		"in Belarusian National State University. He mixes his study time " +
+		"and working time. In his spare time he likes reading books. "
 	},
 
 	"worker_paragraph_7": {
@@ -871,12 +868,12 @@ const languageArray = {
 		"Беларускага дзяржаўнага эканамічнага ўніверсітэта " +
 		"100% яго. ",
 
-		"en": "<em>ИНЖЕНЕР-ТЕХНИК</em><br><br> " +
-		"<strong>ПОДВАЛЬНЫЙ Андрей Сергеевич</strong><br><br> " +
-		"Чемпион мира по водному поло и тяжёлой атлетике. " +
-		"Полагаем, пробовал уже себя везде. Все девушки " +
-		"Белорусского государственного экономического университета " +
-		"100% его. "
+		"en": "<em>ENGINEER-TECHNICIAN</em><br><br> " +
+		"<strong>PADVALNY Andrej Siarhiejevich</strong><br><br> " +
+		"The World Champion in water polo and weightlifting. " +
+		"We guess he try them all and everywhere. All girls from " +
+		"Belarusian State Economic University " +
+		"are one hundred percent his. "
 	},
 
 	"worker_paragraph_8": {
@@ -894,12 +891,12 @@ const languageArray = {
 		"на Android, якое здольна атрымаць доступ да " +
 		"вашых пароляў. ",
 
-		"en": "<em>ИНЖЕНЕР-ПРОГАММИСТ</em><br><br> " +
-		"<strong>БОЙКО Илья Александрович</strong><br><br> " +
-		"Магистрант БГУИР. В прошлом году удивил " +
-		"комиссию на защите дипломного проекта своим новым " +
-		"приложением на Android, которое получает доступ к " +
-		"вашим паролям. "
+		"en": "<em>ENGINEER-PROGRAMMER</em><br><br> " +
+		"<strong>BOJKA Illa Alaksandravich</strong><br><br> " +
+		"He is studying at the magistercy of BSUIR. In the past he surprised " +
+		"the whole commision on the diploma defence, when he showed them " +
+		"his Android Application, which can give an access to " +
+		"all your passwords. "
 	},
 
 	"worker_paragraph_9": {
@@ -915,11 +912,11 @@ const languageArray = {
 		"карпаратываў на прадпрыемстве, і па іншых пытаннях, не " +
 		"звязаных з яго прафесійнай дзейнасцю - да яго. ",
 
-		"en": "<em>ИНЖЕНЕР-ПРОГАММИСТ</em><br><br> " +
-		"<strong>ЛИНКЕВИЧ Артём Александрович</strong><br><br> " +
-		"Душа инженерного отдела предприятия. По вопросам организации " +
-		"корпоративов на предприятии, и по другим вопросам, не " +
-		"связанных с его профессиональной деятельностью - к нему. "
+		"en": "<em>ENGINEER-PROGRAMMER</em><br><br> " +
+		"<strong>LINKIEVICH Artsiom Alaksandravich</strong><br><br> " +
+		"He is a soul of the engineering department of the company. If you have " +
+		"questions about the company parties, and other questions, which " +
+		"are not connected to his professional activity - tell to him. "
 	},
 
 	"worker_paragraph_10": {
@@ -935,10 +932,10 @@ const languageArray = {
 		"нават звальняць не збіраюцца. Адзіная яго заслуга - " +
 		"гэта прыдуманая ім назва нашага прадпрыемства. ",
 
-		"en": "<em>ИНЖЕНЕР-ПРОГАММИСТ</em><br><br> " +
-		"<strong>ЮДАШКИН Виктор Олегович</strong><br><br> " +
-		"Самый бесполезный работник на предприятии, однако его " +
-		"даже увольнять не собираются. Единственная его заслуга - " +
-		"это придуманное им название нашего предприятия. "
+		"en": "<em>ENGINEER-PROGRAMMER</em><br><br> " +
+		"<strong>JUDASHKIN Viktar Alehavich</strong><br><br> " +
+		"He is the most useless worker in our company, however he will not " +
+		"even fired cause our head closes his eyes at it. The only his merit is " +
+		"that he is an author of \"Arkadz Paravozau\" name of our company. "
 	},
 }
